@@ -9,7 +9,7 @@ Experiences clés
 
 
 
-EXPERIENCES PROFESSIONNELLES
+##EXPERIENCES PROFESSIONNELLES
 Depuis  2012 (3 ans) -   SOCIETE GENERALE – GBIS  ITEC (DSI)
 Coach Agile dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
 Coaching d’équipe en cours de transformation Agile (Mise en pace framework Agile, Boucle d’apprentissage, Amélioration Continue, Découpage fonctionnel, …)
