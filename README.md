@@ -1,12 +1,10 @@
 # cv
 Mon parcours et liens utiles
 
-Coach Agile
+##Coach Agile
 Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, avec double compétence en pilotage de projets informatiques et coaching.
 
-
-Experiences clés
-
+Photographe amateur, vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 
 
 ##EXPERIENCES PROFESSIONNELLES
