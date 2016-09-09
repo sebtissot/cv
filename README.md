@@ -6,6 +6,13 @@ Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de 
 
 Photographe amateur, vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 
+##Mes valeurs / croyances
+Bienveillance
+L'intelligence collective surpasse l'intelligence individuele
+La croissance ne devrait par etre la quete de l'homme, puisque nous sommes dans un envrironnement fini (et dont nous touchons les limites)
+
+
+---
 
 ##EXPERIENCES PROFESSIONNELLES
 Depuis  2012 (3 ans) -   SOCIETE GENERALE – GBIS  ITEC (DSI)
@@ -53,6 +60,7 @@ Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
 Langue:				Français, Anglais opérationnel
 
 FORMATIONS et CURSUS
+2016		SAFe Product Owner/Product Manager
 2014		Process Communication (Kailher France)
 2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
 2012		Certified Scrum Master
