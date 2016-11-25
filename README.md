@@ -7,23 +7,26 @@ Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de 
 Photographe amateur, vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 
 ##Mes valeurs / croyances
-Bienveillance
-L'intelligence collective surpasse l'intelligence individuele
-La croissance ne devrait par etre la quete de l'homme, puisque nous sommes dans un envrironnement fini (et dont nous touchons les limites)
+__Bienveillance__
+__L'intelligence collective__ surpasse l'intelligence individuele
+
+##Quelques pensées du moment
+__Viser la croissance, c'est ne pas avoir compris que nous sommes dans un envrironnement fini (et dont nous touchons les limites)__
 
 
 ---
 
 ##EXPERIENCES PROFESSIONNELLES
-Depuis  2012 (3 ans) -   SOCIETE GENERALE – GBIS  ITEC (DSI)
-Coach Agile dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
+Depuis Decembre 2016
+Depuis  2012 -   SOCIETE GENERALE – GBIS  ITEC (DSI)
+__Coach Agile__ dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
 Coaching d’équipe en cours de transformation Agile (Mise en pace framework Agile, Boucle d’apprentissage, Amélioration Continue, Découpage fonctionnel, …)
 2014 : Co-Responsable du projet de transformation d’un groupe de 6 équipes: amélioration du Time to Market a travers l’approche Agile et les pratiques continuous delivery
 Elaboration et dispense de formation en Gestion de projet en contexte Agile (200 formés)
 Référent Agile pour les équipes PMO Méthode
 2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD
 PMO pour ITEC/PRD (Assistant Program Manager optimisation de processus de support, de livraison) 
-	Dashboard de pilotage d’execution du portefeuille projet pour le board ITEC/PRD
+Dashboard de pilotage d’execution du portefeuille projet pour le board ITEC/PRD
 Accompagnement des chefs de projet sur l’application du standard de gouvernance projet
 2009 - 2010 (1 an) -   SOCIETE GENERALE – SGCIB  ITEC/CRS
 Analyste Méthode et Qualité
