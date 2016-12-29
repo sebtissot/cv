@@ -69,17 +69,17 @@ Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
 Langue:				Français, Anglais opérationnel
 
 ##FORMATIONS et CURSUS
-#2016		SAFe Product Owner/Product Manager
-#2014- 2015	Process Communication (Kailher France)
-2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
-2012		Certified Scrum Master
-2009		ITIL – Les fondamentaux
-2007		Formation SCRUM (Méthode agile)
-2000		DESS Biotechnologie des champignons - Université Victor Segalen Bordeaux 2
-1999		Service Militaire (Aspirant Officier de réserve de l’Armée de l’air BA105 - Evreux)
-1998		Maîtrise de Biologie Cellulaire (dominante : Génétique) – Université Henri Poincaré Nancy1
+###2016		SAFe Product Owner/Product Manager
+###2014- 2015	Process Communication (Kailher France)
+###2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
+###2012		Certified Scrum Master
+###2009		ITIL – Les fondamentaux
+###2007		Formation SCRUM (Méthode agile)
+###2000		DESS Biotechnologie des champignons - Université Victor Segalen Bordeaux 2
+###1999		Service Militaire (Aspirant Officier de réserve de l’Armée de l’air BA105 - Evreux)
+###1998		Maîtrise de Biologie Cellulaire (dominante : Génétique) – Université Henri Poincaré Nancy1
 
-__CENTRES D’INTERETS__
-Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
-Sports : Escalade en salle et falaises, Kayak en eaux vives 
-Musique : Guitare (Blues/Rock/Pop)
+##CENTRES D’INTERETS
+###Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
+###Sports : Escalade en salle et falaises, Kayak en eaux vives 
+###Musique : Guitare (Blues/Rock/Pop)
