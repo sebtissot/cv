@@ -19,7 +19,7 @@ __Viser la croissance, c'est ne pas avoir compris que nous sommes dans un envrir
 ##EXPERIENCES PROFESSIONNELLES
 Depuis Decembre 2016
 __Coach Agile for ALD International__
-Agile transformation of WEB Team (Leasing services : My ALD, Partnership) and Car Remarketing
+Transformation agile of WEB Team (Leasing services : My ALD, Partnership) and Car Remarketing
 
 Depuis  2012 -   SOCIETE GENERALE – GBIS  ITEC (DSI)
 __Coach Agile__ dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
@@ -27,7 +27,7 @@ Coaching d’équipe en cours de transformation Agile (Mise en pace framework Ag
 2014 : Co-Responsable du projet de transformation d’un groupe de 6 équipes: amélioration du Time to Market a travers l’approche Agile et les pratiques continuous delivery
 Elaboration et dispense de formation en Gestion de projet en contexte Agile (200 formés)
 Référent Agile pour les équipes PMO Méthode
-##2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD
+###2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD
 PMO pour ITEC/PRD (Assistant Program Manager optimisation de processus de support, de livraison) 
 Dashboard de pilotage d’execution du portefeuille projet pour le board ITEC/PRD
 Accompagnement des chefs de projet sur l’application du standard de gouvernance projet
