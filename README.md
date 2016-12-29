@@ -45,7 +45,8 @@ Responsable de la validation des traitements quotidiens en phase de test
 Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risques de contrepartie 
 Experience de scrum master sur projet de refonte de calculateur de risque
 Projet de mise en place de l’automatisation des tests IHM (QTP)
-COMPETENCES OPERATIONNELLES
+
+##COMPETENCES OPERATIONNELLES
 Principe et Pratiques Agiles
 Coaching 
 Gestion de projet et encadrement d’équipes IT
@@ -53,14 +54,22 @@ Animation / Facilitation
 Assistance à la maitrise d’ouvrage
 Assurance Qualité et gestion de risque
 Conduite du changement
-CONNAISSANCES  METHODOLOGIQUES
+
+##CONNAISSANCES  METHODOLOGIQUES
 Scrum
 Kanban
-Lean Start Up (Notion)
+Lean Start Up et Product Discovery
 Pratique d’ingénierie Agile : TDD, BDD, CI
 PMI 
 
-__OUTILS, LANGAGES et LANGUES VIVANTES__
+javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+
+##OUTILS, LANGAGES et LANGUES VIVANTES
 Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
 Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
 Langue:				Français, Anglais opérationnel
