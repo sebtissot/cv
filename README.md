@@ -55,28 +55,22 @@ Assistance à la maitrise d’ouvrage
 Assurance Qualité et gestion de risque
 Conduite du changement
 
-##CONNAISSANCES  METHODOLOGIQUES
+##CONNAISSANCES METHODOLOGIQUES
 Scrum
 Kanban
 Lean Start Up et Product Discovery
 Pratique d’ingénierie Agile : TDD, BDD, CI
-PMI 
+PMI (non cerfifié)
 
-javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
 
 ##OUTILS, LANGAGES et LANGUES VIVANTES
 Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
 Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
 Langue:				Français, Anglais opérationnel
 
-__FORMATIONS et CURSUS__
-2016		SAFe Product Owner/Product Manager
-2014		Process Communication (Kailher France)
+##FORMATIONS et CURSUS
+#2016		SAFe Product Owner/Product Manager
+#2014- 2015	Process Communication (Kailher France)
 2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
 2012		Certified Scrum Master
 2009		ITIL – Les fondamentaux
