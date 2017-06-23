@@ -80,6 +80,6 @@ Projet de mise en place de l’automatisation des tests IHM (QTP)
 * 1998		Maîtrise de Biologie Cellulaire (dominante : Génétique) – Université Henri Poincaré Nancy1
 
 ## CENTRES D’INTERETS
-* Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
-* Sports : Escalade en salle et falaises, Kayak en eaux vives 
-* Musique : Guitare (Blues/Rock/Pop)
+* :camera: Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
+* Sports que j'ai plus ou moins pratiqués :golf: :bicyclist: :runner: mais surtout Escalade en salle et falaises, Kayak en eaux vives 
+* Musique :guitar: (Blues/Rock/Pop)
