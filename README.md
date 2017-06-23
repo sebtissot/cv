@@ -1,31 +1,31 @@
-# cv
-Mon parcours et liens utiles
+## Quelques pensées du moment
+_Cherchons nous vraiment la croissance infinie dans un monde fini_
+Sur twitter, mon top 2 a suivre:
+@edgarmorinparis
+@JMJancovici
+
+# cv - Ce que je peux vous apporter ert mon parcours
 
 ## Coach Agile
 Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, avec double compétence en pilotage de projets informatiques et coaching.
 
-Photographe amateur, vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
-
 ## Mes valeurs / croyances
-* __Bienveillance__ influence grandement la perfromance
+* __La bienveillance__ ameliore la performance collective
 * __L'intelligence collective__ surpasse l'intelligence individuele
 * __je pourrais recopier les valeurs du [Manifeste Agile](http://www.agilemanifesto.org)__ 
 
-## Quelques pensées du moment
-__Viser la croissance, c'est ne pas avoir compris que nous sommes dans un envrironnement fini (et dont nous touchons les limites)__
-
-
----
 
 ## EXPERIENCES PROFESSIONNELLES
 ### Depuis Decembre 2016
 __Coach Agile for ALD International__
-Transformation agile of WEB Team (Leasing services : My ALD, Partnership) and Car Remarketing
+* Accompagnement de l'equipe en charge des applications client facing (Leasing services : My ALD, Partnership) 
+* Accompagnement des Producyt Owner du site de revente CarRemarketing dans leur processus d'amelioration continue
+* Animation d'une communauté Agile
 
 ### Depuis  2012 -   SOCIETE GENERALE – GBIS  ITEC (DSI)
 __Coach Agile__ dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
-Coaching d’équipe en cours de transformation Agile (Mise en pace framework Agile, Boucle d’apprentissage, Amélioration Continue, Découpage fonctionnel, …)
-2014 : Co-Responsable du projet de transformation d’un groupe de 6 équipes: amélioration du Time to Market a travers l’approche Agile et les pratiques continuous delivery
+* Coaching d’équipe en cours de transformation Agile (Mise en pace framework Agile, Boucle d’apprentissage, Amélioration Continue, Découpage fonctionnel, …)
+* Co-Responsable du projet de transformation d’un groupe de 6 équipes: amélioration du Time to Market a travers l’approche Agile et les pratiques continuous delivery
 Elaboration et dispense de formation en Gestion de projet en contexte Agile (200 formés)
 Référent Agile pour les équipes PMO Méthode
 ### 2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD
@@ -37,12 +37,12 @@ Analyste Méthode et Qualité
 	Chef de projet de déploiement de la méthode de gestion de la maintenance applicative 
 Conduite du changement (déploiement du standard de gestion des changements et des releases)
 Support fonctionnel sur l’application des gestions de la maintenance applicative (ITrack – CA)
-### 2007 - 2009 (2 ans)- SOCIETE GENERALE – SGCIB  ITEC/CRS
+### 2007 - 2009 (3 ans)- SOCIETE GENERALE – SGCIB  ITEC/CRS
 Adjoint du Release Manager
 	Encadrement d’une équipe dédiée à l’intégration des développements et tests de non régression
 En charge de l’amélioration du processus de gestion de release et de test chez ITEC/CRS/RIS.
 Responsable de la validation des traitements quotidiens en phase de test 
-### 2002 – 2007  (2 ans) - SOLIC for SOCIETE GENERALE 
+### 2002 – 2006  (4 ans) - SOLIC for SOCIETE GENERALE 
 Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risques de contrepartie 
 Experience de scrum master sur projet de refonte de calculateur de risque
 Projet de mise en place de l’automatisation des tests IHM (QTP)
@@ -81,5 +81,8 @@ Projet de mise en place de l’automatisation des tests IHM (QTP)
 
 ## CENTRES D’INTERETS
 * :camera: Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
+### vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 * Sports que j'ai plus ou moins pratiqués :golf: :bicyclist: :runner: mais surtout Escalade en salle et falaises, Kayak en eaux vives 
+### vous trouverez ici [le site de notre Club de Gisors](http://www.varapeure.com)
 * Musique :guitar: (Blues/Rock/Pop)
+_rejoignez moi dans spotify_
