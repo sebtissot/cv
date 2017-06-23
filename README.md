@@ -7,8 +7,9 @@ Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de 
 Photographe amateur, vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 
 ##Mes valeurs / croyances
-__Bienveillance__
-__L'intelligence collective__ surpasse l'intelligence individuele
+* __Bienveillance__ influence grandement la perfromance
+* __L'intelligence collective__ surpasse l'intelligence individuele
+* __je pourrais recopier les valeurs du Manifeste Agile__ 
 
 ##Quelques pensées du moment
 __Viser la croissance, c'est ne pas avoir compris que nous sommes dans un envrironnement fini (et dont nous touchons les limites)__
@@ -16,8 +17,8 @@ __Viser la croissance, c'est ne pas avoir compris que nous sommes dans un envrir
 
 ---
 
-##EXPERIENCES PROFESSIONNELLES
-Depuis Decembre 2016
+###EXPERIENCES PROFESSIONNELLES
+##Depuis Decembre 2016
 __Coach Agile for ALD International__
 Transformation agile of WEB Team (Leasing services : My ALD, Partnership) and Car Remarketing
 
@@ -47,37 +48,37 @@ Experience de scrum master sur projet de refonte de calculateur de risque
 Projet de mise en place de l’automatisation des tests IHM (QTP)
 
 ##COMPETENCES OPERATIONNELLES
-Principe et Pratiques Agiles
-Coaching 
-Gestion de projet et encadrement d’équipes IT
-Animation / Facilitation
-Assistance à la maitrise d’ouvrage
-Assurance Qualité et gestion de risque
-Conduite du changement
+* Principe et Pratiques Agiles
+* Coaching 
+* Gestion de projet et encadrement d’équipes IT
+* Animation / Facilitation
+* Product ownership et Maitrise d’ouvrage
+* Assurance Qualité et gestion de risque
+* Conduite du changement
 
 ##CONNAISSANCES METHODOLOGIQUES
-Scrum
-Kanban
-Lean Start Up et Product Discovery
-Pratique d’ingénierie Agile : TDD, BDD, CI
-PMI (non cerfifié)
+* Scrum
+* Kanban
+* Lean Start Up et Product Discovery
+* Connaissance théorique du Software craftsmanship : TDD, BDD, CI, Clean Code, Trunk based dev, Feature flipping...
+* PMP (non cerfifié)
 
 
 ##OUTILS, LANGAGES et LANGUES VIVANTES
-Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
-Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
-Langue:				Français, Anglais opérationnel
+* Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
+* Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
+* Langue:				Français, Anglais opérationnel
 
 ##FORMATIONS et CURSUS
-###2016		SAFe Product Owner/Product Manager
-###2014- 2015	Process Communication (Kailher France)
-###2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
-###2012		Certified Scrum Master
-###2009		ITIL – Les fondamentaux
-###2007		Formation SCRUM (Méthode agile)
-###2000		DESS Biotechnologie des champignons - Université Victor Segalen Bordeaux 2
-###1999		Service Militaire (Aspirant Officier de réserve de l’Armée de l’air BA105 - Evreux)
-###1998		Maîtrise de Biologie Cellulaire (dominante : Génétique) – Université Henri Poincaré Nancy1
+* ###2016		SAFe Product Owner/Product Manager
+* ###2014- 2015	Process Communication (Kailher France)
+* ###2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
+* ###2012		Certified Scrum Master
+* ###2009		ITIL – Les fondamentaux
+* ###2007		Formation SCRUM (Méthode agile)
+* ###2000		DESS Biotechnologie des champignons - Université Victor Segalen Bordeaux 2
+* ###1999		Service Militaire (Aspirant Officier de réserve de l’Armée de l’air BA105 - Evreux)
+* ###1998		Maîtrise de Biologie Cellulaire (dominante : Génétique) – Université Henri Poincaré Nancy1
 
 ##CENTRES D’INTERETS
 ###Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
