@@ -17,9 +17,10 @@ Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de 
 
 ## EXPERIENCES PROFESSIONNELLES
 ### Depuis Decembre 2016
-__Coach Agile for ALD International__
-* Accompagnement de l'equipe en charge des applications client facing (Leasing services : My ALD, Partnership) 
-* Accompagnement des Producyt Owner du site de revente CarRemarketing dans leur processus d'amelioration continue
+__Coach Agile pour ALD International__
+* Adoption de Scrum pour l'equipe en charge des applications client facing (Leasing services : My ALD, Portail Marque blanche) 
+* Amelioration du framework de decision des Product Owner du site eCommerce de revente des vehicules
+* Mise en place de metriques d'observation de l'amelioration (Time To Market, Usage des feature)
 * Animation d'une communauté Agile
 
 ### Depuis  2012 -   SOCIETE GENERALE – GBIS  ITEC (DSI)
@@ -65,7 +66,8 @@ Projet de mise en place de l’automatisation des tests IHM (QTP)
 
 ## OUTILS, LANGAGES et LANGUES VIVANTES
 * Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
-* Suivi de projet			Jira/GreenHopper, Trello, HP-PPM
+* Gestion du backlog produit		Jira/GreenHopper, Visual Studio Team Fondation, Trello
+* Gestion de portefeuille projet	HP-PPM
 * Langue:				Français, Anglais opérationnel
 
 ## FORMATIONS et CURSUS
