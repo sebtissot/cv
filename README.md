@@ -91,6 +91,5 @@ Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risqu
 * :camera: Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
 ### vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
 * Sports que j'ai plus ou moins pratiqués :golf: :bicyclist: :runner: mais surtout Escalade en salle et falaises, Kayak en eaux vives 
-### vous trouverez ici [le site de notre Club de Gisors](http://www.varapeure.com)
+### vous trouverez ici [le site de notre Club de Gisors](http://www.varapeure.fr)
 * Musique :guitar: (Blues/Rock/Pop)
-_rejoignez moi dans spotify_
