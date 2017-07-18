@@ -8,7 +8,7 @@ _Chercher la croissance a tout prix dans un monde fini me semble etre voué a l'
 Sur twitter (@sebtisphoto), quelques compte inspirants @edgarmorinparis,  @JMJancovici
 
 
-# Curiculum Vitae
+# __Curiculum Vitae__
 
 ## Mes valeurs / croyances
 * __La bienveillance__ ameliore la performance collective
@@ -67,7 +67,7 @@ Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risqu
 * Kanban
 * Lean Start Up et Product Discovery
 * Connaissance théorique du Software craftsmanship : TDD, BDD, CI, Clean Code, Trunk based dev, Feature flipping...
-* PMP (non cerfifié)
+* PMP (Travail personnel mais non cerfifié)
 
 ## OUTILS, LANGAGES et LANGUES VIVANTES
 * Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
@@ -77,7 +77,7 @@ Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risqu
 
 ## FORMATIONS et CURSUS
 * 2016		SAFe Product Owner/Product Manager
-* 2014- 2015	Process Communication (Kailher France)
+* 2014-2015	Process Communication (Kailher France)
 * 2013		Exploiter son potentiel (analyse du Type Psychologique NBTI)
 * 2012		Certified Scrum Master
 * 2009		ITIL – Les fondamentaux
@@ -89,6 +89,6 @@ Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risqu
 ## CENTRES D’INTERETS
 * :camera: Photographie (Paysage, macrophotographie, portrait, nu, sport et événementiel)
 ### vous trouverez ici [ma galerie flickr](http://www.fluidr.com/photos/sebtis)
-* Sports que j'ai plus ou moins pratiqués :golf: :bicyclist: :runner: mais surtout Escalade en salle et falaises, Kayak en eaux vives 
-### vous trouverez ici [le site de notre Club de Gisors](http://www.varapeure.fr)
-* Musique :guitar: (Blues/Rock/Pop)
+* Sports que j'ai plus ou moins pratiqués: Golf, Vélo de route, Course à pied mais surtout Escalade en salle et falaises, Kayak en eaux vives 
+### vous trouverez ici [le site du Club de Gisors](http://www.varapeure.fr)
+* Musique :guitare (Blues/Rock/Pop)
