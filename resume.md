@@ -1,20 +1,19 @@
 # SEBASTIEN TISSOT
-## Agent d'amelioration continue spécialisé en gestion de projet/produit Agile.
-Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, avec double compétence en pilotage de projets informatiques et coaching.
+## Agent d'amelioration continue 
+### Spécialisé en gestion de projet et de produit Agile.
+Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, avec une double compétence en pilotage de projets informatiques et en coaching.
 
-
-## Quelques pensées du moment
+### Pensées du moment
 _Chercher la croissance a tout prix dans un monde fini me semble etre voué a l'echec. Je crois que le partage et la frugalité devrait nous guider dans nos choix_
-
 Sur twitter (@sebtisphoto), quelques compte inspirants @edgarmorinparis,  @JMJancovici
 
 
-# CV - Ce que je peux vous apporter ert mon parcours
+# Curiculum Vitae
 
 ## Mes valeurs / croyances
 * __La bienveillance__ ameliore la performance collective
 * __L'intelligence collective__ surpasse l'intelligence individuele
-* __je pourrais recopier les valeurs du [Manifeste Agile](http://www.agilemanifesto.org)__ 
+* __Je pourrais recopier les valeurs du [Manifeste Agile](http://www.agilemanifesto.org)__ 
 
 
 ## EXPERIENCES PROFESSIONNELLES
