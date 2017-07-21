@@ -56,7 +56,9 @@ p {
 
 /* Blockquotes */
 blockquote {
-    text-align: center
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 /* Links */
