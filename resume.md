@@ -1,58 +1,56 @@
 # SEBASTIEN TISSOT
 ## Agent d'amelioration continue 
 ### Spécialisé en gestion de projet et de produit Agile.
-Plus de 14 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, avec une double compétence en pilotage de projets informatiques et en coaching.
+>Avec plus de 15 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, et plus récement dans le secteur de la moilité, je m'epanouis dans un contexte collectif.
+>Focalisé sur la réussite et le bonne humeur, je souhaite mettre ma double compétence en pilotage de projets informatiques et en coaching, dans des roles de Scrum Master, Product Owner.
 
-### Pensées du moment
-_Chercher la croissance a tout prix dans un monde fini me semble etre voué a l'echec. Je crois que le partage et la frugalité devrait nous guider dans nos choix_
-Sur twitter (@sebtisphoto), quelques compte inspirants @edgarmorinparis,  @JMJancovici
-
-
-# __Curiculum Vitae__
-
-## Mes valeurs / croyances
+## Mes valeurs
 * __La bienveillance__ ameliore la performance collective
 * __L'intelligence collective__ surpasse l'intelligence individuele
 * __Je pourrais recopier les valeurs du [Manifeste Agile](http://www.agilemanifesto.org)__ 
 
+## Objectifs sociaux et environnementaux
+* La croissance economique doit laisser place à:
+** la réduiction des écarts de richesse (en premier éradiquer la pauvreté)
+** Amelioration des conditions de vie pour tous les peuples et indicater de bonheur (voir BIB)
+
+Sur twitter (@sebtisphoto), quelques compte inspirants à mon point de vue @edgarmorinparis  @JMJancovici
+
+
+# _Curiculum Vitae_
 
 ## EXPERIENCES PROFESSIONNELLES
-### Depuis Decembre 2016
-__Coach Agile pour ALD International__
-* 2016
-* Adoption de Scrum pour l'equipe en charge des applications client facing (Leasing services : My ALD, Portail Marque blanche) 
+### 12/2016 - Aujourd'hui - Coach Agile pour ALD International
+* Adoption de Scrum/Kanban par les equipes en charge des applications client facing (Leasing services : My ALD, Portail Marque blanche) 
 * Amelioration du framework de decision des Product Owner du site eCommerce de revente des vehicules
 * Mise en place de metriques d'observation de l'amelioration (Time To Market, Usage des feature)
 * Animation d'une communauté Agile
 
-### Depuis  2012 -   SOCIETE GENERALE – GBIS  ITEC (DSI)
-__Coach Agile__ dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
+### 2012 - 12/2016 -   SOCIETE GENERALE – GBIS  ITEC (DSI) - Coach Agile dans le cadre du projet Continuous Delivery (Livraison de valeur en continu)
 * Coaching d’équipe en cours de transformation Agile (Mise en pace framework Agile, Boucle d’apprentissage, Amélioration Continue, Découpage fonctionnel, …)
 * Co-Responsable du projet de transformation d’un groupe de 6 équipes: amélioration du Time to Market a travers l’approche Agile et les pratiques continuous delivery
 * Elaboration et dispense de formation en Gestion de projet en contexte Agile (200 formés)
 * Référent Agile pour les équipes PMO Méthode
 
-### 2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD
-__PMO pour ITEC/PRD__ (Assistant Program Manager optimisation de processus de support, de livraison) 
+### 2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD - PMO pour ITEC/PRD 
+* Assistant Program Manager optimisation de processus de support, de livraison 
 * Dashboard de pilotage d’execution du portefeuille projet pour le board ITEC/PRD
 * Accompagnement des chefs de projet sur l’application du standard de gouvernance projet
 
-### 2009 - 2010 (1 an) -   SOCIETE GENERALE – SGCIB  ITEC/CRS
-__Analyste Méthode et Qualité__
+### 2009 - 2010 (1 an) -   SOCIETE GENERALE – SGCIB  ITEC/CRS - Analyste Méthode et Qualité
 * Chef de projet de déploiement de la méthode de gestion de la maintenance applicative 
 * Conduite du changement (déploiement du standard de gestion des changements et des releases)
 * Support fonctionnel sur l’application des gestions de la maintenance applicative (ITrack – CA)
 
-### 2007 - 2009 (3 ans)- SOCIETE GENERALE – SGCIB  ITEC/CRS
-__Adjoint du Release Manager__
+### 2007 - 2009 (3 ans)- SOCIETE GENERALE – SGCIB  ITEC/CRS - Adjoint du Release Manager
 * Encadrement d’une équipe dédiée à l’intégration des développements et tests de non régression
 * En charge de l’amélioration du processus de gestion de release et de test chez ITEC/CRS/RIS.
 * Responsable de la validation des traitements quotidiens en phase de test 
 
-### 2002 – 2006  (4 ans) - SOLIC for SOCIETE GENERALE 
-__Chef de projet et Maîtrise d’ouvrage__ sur système d’information des  risques de contrepartie: 
-* Experience de scrum master sur projet de refonte de calculateur de risque
+### 2002 – 2006  (4 ans) - SOLIC for SOCIETE GENERALE - Assistant Maîtrise d’ouvrage sur système d’information des  risques de contrepartie: 
+* Experience de __scrum master__ sur projet de refonte de calculateur de risque
 * Projet de mise en place de l’automatisation des tests IHM (QTP)
+* Gestion de petits projet
 
 ## COMPETENCES OPERATIONNELLES
 * Principe et Pratiques Agiles
@@ -71,10 +69,10 @@ __Chef de projet et Maîtrise d’ouvrage__ sur système d’information des  ri
 * PMP (Travail personnel mais non cerfifié)
 
 ## OUTILS, LANGAGES et LANGUES VIVANTES
-* Bureautique :	Word, Excel, PowerPoint, MsProject, Visio, Business Object
+* Bureautique						Word, Excel, PowerPoint, MsProject, Visio, Business Object
 * Gestion du backlog produit		Jira/GreenHopper, Visual Studio Team Fondation, Trello
 * Gestion de portefeuille projet	HP-PPM
-* Langue:				Français, Anglais opérationnel
+* Langue:							Français, Anglais opérationnel
 
 ## FORMATIONS et CURSUS
 * 2016		SAFe Product Owner/Product Manager

@@ -35,6 +35,8 @@ h2:before {
     background-color: #9CB770;
 }
 
+
+
 /* Definitions */
 dt {
     float: left;
@@ -49,6 +51,8 @@ p {
     margin-top:0;
     margin-bottom:7px;
 }
+
+
 
 /* Blockquotes */
 blockquote {
