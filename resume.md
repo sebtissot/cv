@@ -19,6 +19,7 @@ Sur twitter (@sebtisphoto), quelques compte inspirants @edgarmorinparis,  @JMJan
 ## EXPERIENCES PROFESSIONNELLES
 ### Depuis Decembre 2016
 __Coach Agile pour ALD International__
+* 2016
 * Adoption de Scrum pour l'equipe en charge des applications client facing (Leasing services : My ALD, Portail Marque blanche) 
 * Amelioration du framework de decision des Product Owner du site eCommerce de revente des vehicules
 * Mise en place de metriques d'observation de l'amelioration (Time To Market, Usage des feature)
@@ -32,24 +33,24 @@ __Coach Agile__ dans le cadre du projet Continuous Delivery (Livraison de valeur
 * Référent Agile pour les équipes PMO Méthode
 
 ### 2010 - 2012 (2 ans) -   SOCIETE GENERALE – SGCIB  ITEC/PRD
-PMO pour ITEC/PRD (Assistant Program Manager optimisation de processus de support, de livraison) 
+__PMO pour ITEC/PRD__ (Assistant Program Manager optimisation de processus de support, de livraison) 
 * Dashboard de pilotage d’execution du portefeuille projet pour le board ITEC/PRD
 * Accompagnement des chefs de projet sur l’application du standard de gouvernance projet
 
 ### 2009 - 2010 (1 an) -   SOCIETE GENERALE – SGCIB  ITEC/CRS
-Analyste Méthode et Qualité
+__Analyste Méthode et Qualité__
 * Chef de projet de déploiement de la méthode de gestion de la maintenance applicative 
 * Conduite du changement (déploiement du standard de gestion des changements et des releases)
 * Support fonctionnel sur l’application des gestions de la maintenance applicative (ITrack – CA)
 
 ### 2007 - 2009 (3 ans)- SOCIETE GENERALE – SGCIB  ITEC/CRS
-Adjoint du Release Manager
+__Adjoint du Release Manager__
 * Encadrement d’une équipe dédiée à l’intégration des développements et tests de non régression
 * En charge de l’amélioration du processus de gestion de release et de test chez ITEC/CRS/RIS.
 * Responsable de la validation des traitements quotidiens en phase de test 
 
 ### 2002 – 2006  (4 ans) - SOLIC for SOCIETE GENERALE 
-Chef de projet et Maîtrise d’ouvrage  sur système d’information des  risques de contrepartie 
+__Chef de projet et Maîtrise d’ouvrage__ sur système d’information des  risques de contrepartie: 
 * Experience de scrum master sur projet de refonte de calculateur de risque
 * Projet de mise en place de l’automatisation des tests IHM (QTP)
 
