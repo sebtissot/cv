@@ -10,11 +10,11 @@
 * __Je pourrais recopier les valeurs du [Manifeste Agile](http://www.agilemanifesto.org)__ 
 
 ## Objectifs sociaux et environnementaux
-* La croissance economique doit laisser place à:
-** la réduiction des écarts de richesse (en premier éradiquer la pauvreté)
-** Amelioration des conditions de vie pour tous les peuples et indicater de bonheur (voir BIB)
+* La croissance économique doit absolument laisser place à:
+	* la réduction des écarts de richesse (en premier lieu éradiquer la pauvreté)
+	* Amélioration des conditions de vie et mesurer de nouveaux indices (voir Bonheur Interieur Brut)
 
-Sur twitter (@sebtisphoto), quelques compte inspirants à mon point de vue @edgarmorinparis  @JMJancovici
+Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edgarmorinparis  @JMJancovici
 
 
 # _Curiculum Vitae_
