@@ -14,13 +14,18 @@
 	* la réduction des écarts de richesse (en premier lieu éradiquer la pauvreté)
 	* Amélioration des conditions de vie et mesurer de nouveaux indices (voir Bonheur Interieur Brut)
 
+mon profil LinkedIn : https://www.linkedin.com/in/sebtissot-agile/
 Sur twitter (@sebtisphoto), quelques comptes inspirants à mon point de vue @edgarmorinparis  @JMJancovici
 
 
 # _Curiculum Vitae_
 
 ## EXPERIENCES PROFESSIONNELLES
-### 12/2016 - Aujourd'hui - Coach Agile pour ALD International
+### 12/2017 à aujourd'hui - Scrum Master SG - RESG/BSC Big Data
+* Adoption des principes agiles et craftsmanship par l'equipe
+* Animation de la communauté de Scrum Master
+
+### 12/2016 - 12/2017 - Coach Agile pour ALD International
 * Adoption de Scrum/Kanban par les equipes en charge des applications client facing (Leasing services : My ALD, Portail Marque blanche) 
 * Amelioration du framework de decision des Product Owner du site eCommerce de revente des vehicules
 * Mise en place de metriques d'observation de l'amelioration (Time To Market, Usage des feature)
