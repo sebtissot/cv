@@ -1,5 +1,5 @@
 # SEBASTIEN TISSOT
-## Agent d'amelioration continue 
+## Agent d'amelioration continue - Coach Agile
 ### Spécialisé en gestion de projet et de produit Agile.
 >Avec plus de 15 années d’expérience dans le domaine IT au sein d’une banque de financement et d’investissement, et plus récement dans le secteur de la moilité, je m'epanouis dans un contexte collectif.
 >Focalisé sur la réussite et le bonne humeur, je souhaite mettre ma double compétence en pilotage de projets informatiques et en coaching, dans des roles de Scrum Master, Product Owner.
